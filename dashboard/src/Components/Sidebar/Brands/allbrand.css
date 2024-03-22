@@ -1,0 +1,218 @@
+.banner_container{
+    background-color: white;
+    height: 290px;
+    width :55%;
+    position: absolute;
+    top:527px;
+    right:545px;
+    border: 0.1px solid transparent;
+    margin-left: 26px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.cola_banner_container{
+    position: relative;
+    left:12px;
+    height: 270px;
+    width: 23%;
+    border: 1px solid transparent;
+    border-color: black;
+    margin: 10px;
+    border-radius: 10px;
+}
+.cola_banner_container-two{
+    position: relative;
+    left:12px;
+    height: 270px;
+    width: 15%;
+    border: 1px solid transparent;
+    border-color: black;
+    margin: 10px;
+    border-radius: 10px; 
+}
+.txt_cola{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 1px solid transparent;
+    border-color: black;
+    height: 22px;
+    width: 90%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    font-size: 13px;
+    color: black;
+}
+.grid_week_month{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.cola_ads_container{
+    position: relative;
+    left:10px;
+    bottom:70px;
+}
+
+.amt_ads_container{
+    display: flex;
+    margin-block: 0px;
+    margin-left: 1px;
+}
+.amt_ads_cola{
+    font-size: 20px;
+    display: flex;
+    margin-block: 0px;
+    font-weight: bolder;
+    color: rgb(10, 70, 20);
+}
+.amt_substands_cola{
+    font-size: 13px;
+    display: flex;
+    margin-block: 0px;
+    margin-top: 7.5px;
+    font-weight: bolder;
+    color: rgb(10, 70, 20);
+}
+.icon_dollar_ads_cola{
+    margin-top: 9px;
+    font-size: 9px;
+    font-weight: bolder;
+    color: rgb(10, 70, 20);
+}
+.ads_spent_txt{
+    display: flex;
+    margin-block: 0px;
+    margin-left: 2px;
+    font-size: 8px;
+    font-weight:800;
+    color: black;
+}
+.ads_percentage{
+    display: flex;
+    margin-block: 0px;
+    margin-left: 5px;
+    color: green;
+    font-size: 10px;
+}
+.container_progress_cola { 
+    background-color: rgb(192, 192, 192); 
+    width: 80%; 
+    border-radius: 15px; 
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+} 
+
+.skill { 
+    background-color: rgb(10, 70, 20); 
+    color: white; 
+    padding: 3%; 
+    position: relative; 
+    right: 8px;
+    border-radius: 15px; 
+} 
+.cola_ads{
+    width:39%;
+}
+.logo_coca{
+    position: relative;
+    left: 53px;
+    bottom: 40px;
+    width:60px;
+    height:100px;
+    color: rgb(10, 70, 20);
+}
+.amt_ads_container_week{
+    display: flex;
+    margin-block: 0px;
+    margin-left: 10px;
+}
+
+/*Buffer*/
+
+.buffer-logo{
+    position: relative;
+    left: 28px;
+    bottom: 40px;
+    width:20px;
+    height:100px;
+    color: rgb(10, 70, 20); 
+}
+
+.buffer-name{
+    position: relative;
+    left: 30px;
+    bottom:1px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(10, 70, 20); 
+}
+
+/*Hootsuite-logo*/
+
+
+.Hootsuite-logo{
+    position: relative;
+    left: 28px;
+    bottom: 40px;
+    width:20px;
+    height:100px;
+    color: rgb(10, 70, 20); 
+}
+
+.Hootsuite-name{
+    position: relative;
+    left: 30px;
+    top: 3px;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(10, 70, 20); 
+}
+
+/*Zoho*/
+
+.logo_Zoho{
+    position: relative;
+    left: 20px;
+    bottom: 40px;
+    width:60px;
+    height:100px;
+    color: rgb(10, 70, 20);
+}
+
+/*Salesforce*/
+
+.logo_Salesforce{
+    position: relative;
+    left: 20px;
+    bottom: 40px;
+    width:45px;
+    height:100px;
+    color: rgb(10, 70, 20);
+}
+
+.txt_cola-other{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 1px solid transparent;
+    border-color: black;
+    height: 22px;
+    width: 83%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    font-size: 13px;
+    color: black;
+}
+
+/*Cocacola chat*/
+.cocacola-chart{
+    position: relative;
+    top:30px;
+    right:73px;
+}
+.week{
+    position: relative;
+    top:10px;
+    left: 10px;
+    font-size: 10px;
+
+}

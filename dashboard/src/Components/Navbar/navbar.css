@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.back-color{
+    background-color: #0f5132;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    color: white;
+  }
+
+.search-font{
+font-size:30px;
+}
+
+.nav-style{
+  color: white;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+
+.cocaola{
+font-size: 70px;
+color: white;
+}
+

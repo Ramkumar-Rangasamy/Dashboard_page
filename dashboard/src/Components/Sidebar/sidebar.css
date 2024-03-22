@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+/*start Sidebar Styles */
+
+.nav-full{
+    background-color: #0f5132; 
+    height: 120vh;
+}
+
+.Dashboard{
+    width: 250px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    padding-top: 90px;
+    padding-right: 65px;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.side {
+    position: relative;
+    right: 20px;
+    overflow-y: scroll; 
+    height: 55vh; 
+    width: 250px; 
+    border-right: 1px solid #0f5132; 
+    padding-top:90px; 
+    padding-left: 10px;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+   
+}
+
+
+.Team{
+    width: 250px;
+    height: 90px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    padding-right: 60px;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+
+
+.side .nav-link {
+    color:white;  
+    display: block; 
+    text-decoration: none; 
+    font-size: 17px;
+    width: 200px;
+    padding-left:40px;
+    
+    
+}
+
+.side .nav-link:hover {
+    color: #f6f8fa; 
+    background-color: #0e3422;
+    border-radius: 5px;
+    width: 180px;
+   
+    
+}
+.font-style{
+    margin-right: 8px; 
+}
+
+.side .font-style {
+    margin-right: 10px; 
+}
+
+.side .allname {
+    margin-top: 100px; 
+}
+
+.side::-webkit-scrollbar {
+    width: 13px;
+}
+
+.side::-webkit-scrollbar-thumb {
+    background-color: rgba(240, 248, 255, 0.416); 
+    border-radius: 5px;
+    height: 6px;
+}
+
+/* end Sidebar Styles*/
+
+main{
+    background-color: #0f5132; 
+}
+.emt-box{
+    width: 100%;
+    height: 14vh;
+    background-color: rgba(240, 248, 255, 0.416);
+    border-radius: 5px;
+}

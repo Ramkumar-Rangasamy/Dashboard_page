@@ -1,0 +1,170 @@
+
+.full_payment_container1{
+  position: absolute;
+  left:330px;
+  top: 287px;
+  height: 130px;
+  width:513px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  margin: 400px;
+  background-color:white;
+}
+
+.cardContainer_payment2 {
+  margin-top: 5px;
+  margin-left: 5px;
+  border: 1px solid black;
+  width: 345px;
+  height: 120px;
+  border-radius: 11px;
+  padding: 5px;
+}
+.txt_payment2{
+  border-bottom: 1px solid transparent;
+  border-color: black;
+  color: black;
+  height: 18px;
+  width: 95%;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: left;
+  font-size: 12px;
+}
+
+.score_payment2 {
+  font-size: 10px;
+  width: 30%;
+}
+
+.scoreData_payment2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: lightgreen;
+}
+
+.scoreContainer_payments2{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  justify-content: space-between;
+  gap: 1.0rem;
+  text-align: center;
+}
+
+.facebook-card2 {
+  margin-left: -20px;
+  border: 1px solid black;
+  border-radius: 10px;
+   
+}
+.facebook_container2{
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  margin-top: -20px;
+  width: 95%;
+  border-bottom: 1px solid black;
+  margin-left:3px; 
+  margin-inline-end: 5px;
+}
+.facebook_container_last2{
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  margin-top: 5px;
+  width: 95%;
+  margin-left:3px; 
+  margin-inline-end: 5px;
+}
+
+#facebook-icon2 {
+    font-size: 25px;
+    padding: 5px;
+    color: darkgreen;
+    display: inline-block; /* Ensure the icon and progress bar are displayed inline / / Adjust the margin between the icon and progress bar */
+}
+
+
+#facebook-text2 {
+  width: 100%;
+    display: flex;
+    align-items: center; /* Align the items vertically in the Card.Text */
+}
+
+.container_progress_payments2{
+  background-color: rgb(192, 192, 192); 
+  width: 90%; 
+  border-radius: 15px; 
+  margin-left: 10px;
+  height: 4.5px;
+  margin-top: 3px;
+}
+.skill2 { 
+  background-color: rgb(10, 70, 20); 
+  color: white; 
+  padding: 1%; 
+  text-align: right; 
+  border-radius: 15px; 
+  height: 5px;
+} 
+.ads_spent_txt2{
+    color: black;
+}
+.ads_week_subtext2{
+    color: black;
+}
+
+.percentage_subtext2{
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+.facebook_percentage2{
+  width: 30%;
+}
+.twitter_percentage2{
+  width: 25%;
+
+}
+.ads_week_subtext2{
+ text-align: right;
+}
+.ads_percentage20{
+  font-size:7px;
+  margin-left: 2px;
+  color:#1b411b;
+}
+.title2{
+  font-size: 8px;
+  color: black;
+}
+.icon_dollar_ads2{
+  font-size: 8px;
+  font-weight: bold;
+}
+.icon_arrow2{
+    position: relative;
+    bottom: 5px;
+    font-size: 10px;
+}
+.scoreData2{
+  font-size: small;
+  color: #1b411b;
+}
+.countScore22{
+  font-size: 15px;
+  font-weight: 700;
+  color: #1b411b;
+}
+.description2{
+  font-size: 8px;
+  color: black;
+  position: relative;
+  bottom:10px;
+}
+.new92{
+  color: lightgreen;
+   position: relative;
+   bottom:10px;
+}
+

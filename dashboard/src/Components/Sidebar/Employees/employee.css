@@ -1,0 +1,23 @@
+.Number-head{
+    width: 400px;
+    height: 170px;
+    padding-top: 5px;
+    position: relative;
+    right: 5px;
+}
+.number-text{
+    line-height: 11px;
+    font-size: 12px;
+    width: auto;
+    height: 5px;
+    color: black;
+}
+.title_employe{
+    font-weight: 600;
+}
+.number_740{
+    font-weight: bold;
+    font-size: 16px;
+    color: #0e3422;
+    font-family: Arial, Helvetica, sans-serif;
+}

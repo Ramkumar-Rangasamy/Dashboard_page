@@ -1,0 +1,267 @@
+/* total-head*/
+
+.total-head{
+    background-color:white;
+    border-radius: 5px;
+    height: 400px;
+    width: 500px;
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 1px;
+   
+}
+
+.social-head{
+    background-color: white;
+    border: 1px solid black; 
+    border-radius: 10px;
+    height: 120px;
+    width: 350px;
+    color: #0e3422;
+    margin-left: 15px;
+    padding-right: 25px;       
+}
+
+.social-head p{
+    padding-left: 12px;
+    padding-top: 5px;
+    font-size: 11px;
+    font-weight:600;   
+}
+
+.custom{
+    border-color:black;
+    position: relative;
+    bottom: 17px;
+    margin-left: 12px;  
+}
+
+
+.brand-list  h5{
+    font-weight:bolder;
+    font-size: 20px;
+    position: relative;
+    bottom: 35px;
+    left: 3px;
+    color: #0f5132;
+}
+
+.brand-list p {
+   position: relative;
+   bottom: 50px;
+   right: 9px;
+   
+}
+
+.brand-list a{
+    position: relative;
+    bottom: 62px;
+    right: 46px;
+    
+}
+
+.font{ 
+    font-size: 20px;
+    color: #0f5132;
+}
+.text-start-brand{
+    font-size: 10px;
+}
+.text-start{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.font-color{
+    position: relative;
+    top: 5px;
+    right:-35px;
+    font-size: 10px;
+    color: white;
+    border-radius: 10px;
+    width:22px;
+    background-color:rgb(11, 174, 11);
+}
+
+
+
+.para-single {
+    position: relative;
+    bottom: 35px;
+    margin-top: -27px; 
+    padding-left: 3px; 
+    padding-right: 3px;
+    font-size: 8px;
+    width: 80px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+/* Analytic Card */
+
+.Analytic-card-head{
+    background-color: white;
+    border: 1px solid black; 
+    border-radius: 10px;
+    height: 260px;
+    width: 350px;
+    padding: 70px;
+    color: #0e3422; 
+    position: relative;
+    bottom:275px; 
+    right: 15px;  
+}
+
+.Analytic{
+    font-size: 12px;
+    font-weight: 600;
+    
+}
+
+
+.back {
+    background-color: #184d31;
+    border-radius: 10px;
+    width: 100%;  
+    font-size: 10px;
+    color: white;
+    margin-top: 15px;
+    position: absolute;
+    left: 15px;
+    
+  }
+
+.hold_icon_text{
+   position: relative;
+   top: 8px;
+   left: 10px;
+}
+.icon_circle{
+    margin: 5px;
+    position: relative;
+    bottom: 7px;
+}
+
+.span_Analytic{
+    font-size: 10px;
+    font-family: "Raleway", sans-serif;
+}
+
+
+/*facebook & Instagram*/
+
+.custom-hr-two{
+    border-color:black;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-top: 25px;  
+}
+
+.facebook{
+    background-color: white;
+    border: 1px solid black; 
+    border-radius: 5px;
+    height: 155px;
+    width: 135px;
+    color: #0e3422;
+    position: relative;
+    left: -10px;
+      
+}
+
+.facebook p{
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 13px;
+    font-weight: 600;
+    position: absolute;
+   
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    position: relative;
+    bottom:15px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-box{
+    width: 50px;
+    height: 40px;
+    background:linear-gradient(180deg,#0e3422,#757875eb);
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: bolder;
+    padding-top: 3px;
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 9px;
+}
+
+.flex-box p{
+    font-size:8px;  
+}
+
+#tri-icon{
+    color: darkgreen;
+    font-size: 12px;
+}
+
+.flex-boxone{
+    position: relative;
+    top: 4px;
+    left: 10px;
+    font-size: 18px;
+    font-weight:600;
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#dollar-icon{
+    color: darkgreen;
+}
+
+/*Twitter*/
+
+.Twitter{
+    background-color: white;
+    border: 1px solid black; 
+    border-bottom: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 69px;
+    width: 135px;
+    color: #0e3422;
+    position: relative;
+    left: -10px;
+}
+
+.Twitter p{
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    position: absolute;
+   
+}
+
+.flex-box-Twitter{
+    width: 80px;
+    height: 21px;
+    background:linear-gradient(180deg,#0e3422,#aab5ac);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: center;
+    align-items: center;
+    border-bottom: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 10px;
+    margin-top:20px;
+    
+    
+}
